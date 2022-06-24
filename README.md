@@ -1,6 +1,11 @@
 # spotify
 Analysing my spotify data to understand more about my music preferences. This project is for education purpose.
 
+First install the neccessary packages using
+! pip install spotipy
+! pip install requests
+! pip install pandas
+
 ##DESCRIPTION OF FILES
 
 #spotify.py
