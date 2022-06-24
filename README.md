@@ -6,9 +6,10 @@ First install the neccessary packages using
 ! pip install requests
 ! pip install pandas
 
-##DESCRIPTION OF FILES
+## DESCRIPTION OF FILES
 
-#spotify.py
+# spotify.py
+
 To access the spotify API
 
 To access the spotify API, first you have to log in to the developer dashboard and click on 'create an app'.
@@ -17,6 +18,15 @@ Go to edit settings and under the redirect uri add the 'redirect link' that weâ€
 In the app panel you will also find client id and client secret.
 
 Using these parameters, you can access the spotify API
+
+
+# spotify_data_scrapping.py
+
+Data scrapping is the process of importing information from a website into a spreadsheet or local file saved on your computer. Using the API's you can generate track is for the song and get the respective track features. In this file we have generated the track id and features of a single song.
+
+# spotify_create_dataset
+
+Now using the information we have from the previous 2 files we are going to create a dataset that contains all the songs in your steaming history along with their different features like danceability, energy, loudness, sound etc.
 
 
 
