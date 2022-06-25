@@ -28,7 +28,13 @@ Data scrapping is the process of importing information from a website into a spr
 
 Now using the information we have from the previous 2 files we are going to create a dataset that contains all the songs in your steaming history along with their different features like danceability, energy, loudness, sound etc.
 
+# mymusicpatterns.py
 
+Convert StreamingHistory json file to csv
+
+# spotify_popularity_artist_genre.py
+
+created a dataset having the song name and popularity..Was not able to get the song genre. If anyone find out how to do it, feel free to add
 
 Referals:
 Data scrapping:
