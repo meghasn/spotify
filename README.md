@@ -36,6 +36,8 @@ Convert StreamingHistory json file to csv
 
 created a dataset having the song name and popularity..Was not able to get the song genre. If anyone find out how to do it, feel free to add
 
+Suggest various recommendations using the obtained datasets
+
 Referals:
 Data scrapping:
 https://towardsdatascience.com/get-your-spotify-streaming-history-with-python-d5a208bbcbd3
