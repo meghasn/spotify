@@ -38,6 +38,13 @@ created a dataset having the song name and popularity..Was not able to get the s
 
 Suggest various recommendations using the obtained datasets
 
+Various ideas:
+Genre classification
+Automatic playlist creation
+Automatic song addittion to playlist
+Combined playlist based on tow or more users' data
+Andhakshari player :)
+
 Referals:
 Data scrapping:
 https://towardsdatascience.com/get-your-spotify-streaming-history-with-python-d5a208bbcbd3
