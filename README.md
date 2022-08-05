@@ -38,6 +38,14 @@ created a dataset having the song name and popularity..Was not able to get the s
 
 Suggest various recommendations using the obtained datasets
 
+# additional dataset folder
+
+contains code to generate some additional datasets using your spotify data
+
+# data folder 
+
+contains all the datasets created
+
 Various ideas:
 Genre classification
 Automatic playlist creation
