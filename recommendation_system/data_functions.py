@@ -146,8 +146,10 @@ def get_recommendations(sp, tracks):
     :param tracks: list of Spotify track ids
     :return: list of tracks
     """
+    print(tracks)
     data = []
     for x in tracks:
         results = sp.recommendations(seed_tracks=[x])  # default api limit of 20 is enough
+        print(results)
         data.extend(results['tracks'])
     return data
