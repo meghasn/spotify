@@ -57,3 +57,6 @@ Referals:
 Data scrapping:
 https://towardsdatascience.com/get-your-spotify-streaming-history-with-python-d5a208bbcbd3
 
+Additonal Dataset:
+https://towardsdatascience.com/machine-learning-and-recommender-systems-using-your-own-spotify-data-4918d80632e3
+
